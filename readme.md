@@ -1,3 +1,9 @@
+## Run dev
+```
+npm i
+npm start
+```
+
 ## Descirbe
 
 >react-redux & reduxjs/toolkit

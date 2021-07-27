@@ -4,5 +4,5 @@
 
 >vytvorim store s funkciami ktore chcem aby app mala
 
->app.js importnem Provider obalim App a dam do providera props ={store}
+>index.js importnem Provider obalim App a dam do providera props ={store}
 

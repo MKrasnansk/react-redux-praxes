@@ -1,8 +1,11 @@
-## Poznamky
+## Descirbe
 
->Najprv nainstajuem react-redux a reduxjs/toolkit
+>react-redux & reduxjs/toolkit
 
->vytvorim store s funkciami ktore chcem aby app mala
+>create store with fn to be used
 
->index.js importnem Provider obalim App a dam do providera props ={store}
+>index.js import Provider wrap App & provider push to props
 
+>useDispatch to use redux-state in components
+
+>reducers to change redux-state
